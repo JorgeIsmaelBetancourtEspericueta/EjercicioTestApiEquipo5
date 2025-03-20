@@ -1,7 +1,9 @@
 Descripción del Repositorio
+
 Este repositorio contiene los archivos JavaScript que utilizan Axios para probar la API desarrollada por el Equipo 5. La actividad consiste en analizar la documentación proporcionada por el equipo y realizar pruebas sobre su API para evaluar su funcionamiento.
 
 Enlace de la API
+
 La API está alojada en el siguiente enlace:
 https://apirest-nodehost.onrender.com/apiV1/events
 
